@@ -1,4 +1,4 @@
 nombre = input ("Ingresa tu nombre:")
 
-print ("tu nombre es:" + nombre)
+print ("Tu nombre es:" + nombre)
 
